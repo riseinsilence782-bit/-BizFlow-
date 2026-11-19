@@ -1,0 +1,8 @@
+{
+  "name": "PalliFin Core ERP — Samity Management",
+  "description": "Production Microfinance Banking ERP featuring complete Samity Management, Office and Branch hierarchy, Employee Assignment History, Member Management integration, Audit Trails, Excel Export, and Role-Based Access Control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
